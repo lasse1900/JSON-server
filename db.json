@@ -27,15 +27,13 @@
             "email": "ppopovich@gmail.com",
             "yob": 1990,
             "major": "psychology"
-        }
-    ],
-
-    "professors": [
-        {
-            "id": 1,
-            "name": "Daniel Kovalsky",
-            "email": "dkovalsky@gmail.com",
-            "subject": "phycics"
+        },
+        { 
+            "id": 5, 
+            "name": "Stefanie Paglieri", 
+            "email": "spablieri@gmail.com",
+            "yob": 1989,
+            "major": "chemistry"
         }
     ]
   }
