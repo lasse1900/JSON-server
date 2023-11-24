@@ -1,0 +1,16 @@
+{
+  "name": "json_server",
+  "version": "1.0.0",
+  "description": "- (YouTube link)[https://www.youtube.com/watch?v=2CEoFsIOkiE]\r - (npm)[https://www.npmjs.com/package/json-server]\r - (Homepage json-server, docs)[https://github.com/typicode/json-server]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
