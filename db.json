@@ -1,39 +1,18 @@
 {
-    "students": [
-        { 
-            "id": 1, 
-            "name": "Caroline Mayer", 
-            "email": "cmayer@gmail.com",
-            "yob": 1992,
-            "major": "psychology"
-        },
-        { 
-            "id": 2, 
-            "name": "Brandon Sokalsky", 
-            "email": "bsokalsky@gmail.com",
-            "yob": 1990,
-            "major": "kinesiology"
-        },
-        { 
-            "id": 3, 
-            "name": "Sarah bennet", 
-            "email": "sbennet@gmail.com",
-            "yob": 1991,
-            "major": "biology"
-        },
-        { 
-            "id": 4, 
-            "name": "Peter Popovich", 
-            "email": "ppopovich@gmail.com",
-            "yob": 1990,
-            "major": "psychology"
-        },
-        { 
-            "id": 5, 
-            "name": "Stefanie Paglieri", 
-            "email": "spablieri@gmail.com",
-            "yob": 1989,
-            "major": "chemistry"
-        }
-    ]
-  }
+  "students": [
+    {
+      "id": 1,
+      "name": "Caroline Mayer",
+      "email": "cmayer@gmail.com",
+      "yob": 1992,
+      "major": "psychology"
+    },
+    {
+      "id": 2,
+      "name": "Robert Gibbons",
+      "email": "rgibbons@gmail.com",
+      "yob": 1989,
+      "major": "biology"
+    }
+  ]
+}
